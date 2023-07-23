@@ -35,3 +35,14 @@ obj.showData();
 obj.accessData();
 }
 }
+
+// o/p
+//
+// ./Main.java:27: error: class AccessModifiersExample is public, should be declared in a file named AccessModifiersExample.java
+// public class AccessModifiersExample {
+//        ^
+// ./Main.java:23: error: d has private access in ParentClass
+// System.out.println("d = " + d);
+//                             ^
+// 2 errors
+// exit status 1
