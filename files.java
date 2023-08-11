@@ -1,3 +1,5 @@
+// uses a class & array list but don't use files
+
 import java.io.*;
 import java.util.*;;
 public class Files {
